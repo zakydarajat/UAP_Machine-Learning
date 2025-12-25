@@ -1,4 +1,4 @@
-# 🌾 Sistem Klasifikasi Beras Berbasis AI
+# 🌾 Sistem Klasifikasi Beras Berbasis Machine Learnin
 
 <div align="center">
 
@@ -17,6 +17,8 @@
 </div>
 
 ---
+## Demo
+https://rice-classification.streamlit.app/
 
 ## 📋 Tentang Proyek
 
@@ -700,9 +702,9 @@ Proyek ini terinspirasi dari:
 
 ### ⭐ Jika proyek ini bermanfaat, jangan lupa beri Star! ⭐
 
-**Dibuat dengan ❤️ menggunakan PyTorch & TensorFlow**
+**Dibuat menggunakan PyTorch & TensorFlow**
 
-*Terakhir diupdate: Desember 2024*
+*Terakhir diupdate: Desember 2025*
 
 ---
 
