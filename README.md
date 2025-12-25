@@ -1,4 +1,4 @@
-# 🌾 Sistem Klasifikasi Beras Berbasis AI
+# 🌾 Sistem Klasifikasi Beras Berbasis Machine Learnin
 
 <div align="center">
 
@@ -17,6 +17,8 @@
 </div>
 
 ---
+## Demo
+https://rice-classification.streamlit.app/
 
 ## 📋 Tentang Proyek
 
