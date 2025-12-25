@@ -700,9 +700,9 @@ Proyek ini terinspirasi dari:
 
 ### ⭐ Jika proyek ini bermanfaat, jangan lupa beri Star! ⭐
 
-**Dibuat dengan ❤️ menggunakan PyTorch & TensorFlow**
+**Dibuat menggunakan PyTorch & TensorFlow**
 
-*Terakhir diupdate: Desember 2024*
+*Terakhir diupdate: Desember 2025*
 
 ---
 
